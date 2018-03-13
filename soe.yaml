@@ -3,4 +3,4 @@
 
 - hosts: all
   roles: 
-  - { role: kbrebanov.motd }
+  - { role: adriagalin.motd }
