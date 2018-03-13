@@ -1,0 +1,6 @@
+---
+# SOE playbook
+
+- hosts: all
+  roles: 
+  - { role: elao.motd }
