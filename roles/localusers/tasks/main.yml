@@ -3,5 +3,5 @@
 #
 user:
   name: demo
-  groups: wheel
+  group: wheel
   password: password
