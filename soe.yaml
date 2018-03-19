@@ -4,4 +4,4 @@
 - hosts: all
   roles: 
   - { role: adriagalin.motd }
-  - { role: localuser }
+  - { role: localusers }
