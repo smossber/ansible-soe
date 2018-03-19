@@ -1,7 +1,7 @@
 ---
 # tasks file for localusers
 #
-user:
-  name: demo
-  group: wheel
-  password: password
+- user:
+    name: demo
+    group: wheel
+    password: password
