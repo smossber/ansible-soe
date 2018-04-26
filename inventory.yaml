@@ -1,7 +1,8 @@
 all:
   vars:
-    ns1:172.1.1.1
+    ns1: 172.1.1.1
     search_domain1: overridden_by_al.example.com
   children:
     foreman_content_view_cv_rhel7:
-      ns1:192.168.1.1
+      vars:
+        ns1:192.168.1.1
