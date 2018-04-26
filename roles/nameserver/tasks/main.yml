@@ -1,0 +1,7 @@
+---
+# tasks file for nameserver
+#
+- name: Configure Nameserver
+  template:
+    src: resolv.conf.j2
+    dest: /tmp/resolv.conf

@@ -1,0 +1,7 @@
+---
+# defaults file for nameserver
+ns1: 172.16.50.1
+ns2: 172.16.50.2
+search_domain1: example.com
+search_domain2: ad.example.com
+
