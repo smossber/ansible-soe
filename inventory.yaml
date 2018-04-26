@@ -5,4 +5,4 @@ all:
   children:
     foreman_content_view_cv_rhel7:
       vars:
-        ns1: 192.168.1.1
+        ns1: "192.168.1.1"
