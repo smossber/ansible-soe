@@ -1,0 +1,12 @@
+
+
+# motd role
+motd_environment: "SysTest"
+
+# issue role
+motd_issue: "SysTest"
+
+# bashrc role
+bashrc_prompt_environment: "SysTest"
+## green
+bashrc_prompt_color: "3"  

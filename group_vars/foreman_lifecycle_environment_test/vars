@@ -13,3 +13,5 @@ motd_environment: "Test"
 bashrc_prompt_environment: "test"
 ## green
 bashrc_prompt_color: "2"  
+
+#
