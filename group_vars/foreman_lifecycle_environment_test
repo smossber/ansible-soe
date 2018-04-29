@@ -1,10 +1,10 @@
+---
 # For the OnPremise Test environments
 #
 
 
 # motd role
 motd_environment: "Test"
-
 
 # issue role
 motd_environment: "Test"
