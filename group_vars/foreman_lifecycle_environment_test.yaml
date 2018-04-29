@@ -10,6 +10,6 @@ motd_environment: "Test"
 motd_environment: "Test"
 
 # bashrc role
-
+bashrc_prompt_environment: "test"
 ## green
-bashrc_color: "0;32" 
+bashrc_prompt_color: "2"  
