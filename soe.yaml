@@ -1,8 +1,7 @@
 ---
 # SOE playbook
 
-- hosts: all
-  roles: 
+- roles: 
   - { role: localusers }
   - { role: nameserver }
   - { role: bashrc }
