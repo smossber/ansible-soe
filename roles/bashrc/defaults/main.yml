@@ -1,0 +1,5 @@
+---
+# defaults file for bashrc
+#
+bash_prompt_color: 1
+bash_prompt_environment: ""

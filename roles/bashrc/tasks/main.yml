@@ -1,0 +1,7 @@
+---
+# tasks file for bashrc
+#
+- name: write /etc/bashrc 
+  template:
+    src: bashrc.j2
+    dest: /etc/bashrc
