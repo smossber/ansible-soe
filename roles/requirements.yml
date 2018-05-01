@@ -1,1 +1,1 @@
-lae.system_ldap
+ - src: https://github.com/lae/ansible-role-system_ldap
