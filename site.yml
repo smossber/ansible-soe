@@ -1,8 +1,9 @@
 ---
 # SOE playbook
 
-- roles: 
+- hosts: all
+  roles: 
   - { role: localusers }
   - { role: nameserver }
   - { role: bashrc }
-
+  - { role: lae.system_ldap }

@@ -1,0 +1,12 @@
+
+
+# motd role
+motd_environment: "IntTest"
+
+# issue role
+motd_issue: "IntTest"
+
+# bashrc role
+bashrc_prompt_environment: "IntTest"
+## green
+bashrc_prompt_color: "3"  

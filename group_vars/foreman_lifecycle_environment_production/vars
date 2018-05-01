@@ -1,0 +1,12 @@
+
+
+# motd role
+motd_environment: "Production"
+
+# issue role
+motd_issue: "Production"
+
+# bashrc role
+bashrc_prompt_environment: "Production"
+## green
+bashrc_prompt_color: "1"  

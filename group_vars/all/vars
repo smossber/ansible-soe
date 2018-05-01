@@ -1,0 +1,19 @@
+# This is variables we set for all groups
+#
+
+
+
+system_ldap_domain: int.m0sslab.org
+system_ldap_bind_dn: cn=moss,cn=groups,cn=accounts,dc=int,dc=m0sslab,dc=org
+system_ldap_search_base: cn=accounts,DC=int,DC=m0sslab,DC=org
+system_ldap_uris:
+  - ldaps://idm1.int.m0sslab.org:636
+system_ldap_access_filter_groups:
+  - CN=operations,OU=Security Groups,DC=int,DC=m0sslab,DC=org
+system_ldap_access_filter_users: []
+system_ldap_access_unix_groups:
+  - operators
+  - 
+system_ldap_sudo_groups:
+  - operators
+system_ldap_sudo_users: []
